@@ -5160,6 +5160,12 @@ a.badge:focus {
   color: white;
   text-decoration: underline;
 }
+.underline{
+  text-decoration: underline;
+}
+.white_text{
+  color: white;
+}
 .header{
   background-color: CornflowerBlue;
   padding-bottom:1%;
