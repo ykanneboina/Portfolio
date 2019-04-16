@@ -5160,6 +5160,12 @@ a.badge:focus {
   color: white;
   text-decoration: underline;
 }
+.height{
+  line-height: 1.7;
+}
+.m{
+  line-height: 2;
+}
 .underline{
   text-decoration: underline;
 }
